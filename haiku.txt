@@ -1,0 +1,4 @@
+My Haiku
+Is so nice
+Commit me
+And grab a slice
